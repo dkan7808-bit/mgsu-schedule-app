@@ -1,2 +1,4 @@
 meta:
-  environment: static
+  environment: static_web
+  toolchain:
+    name: html
